@@ -8,4 +8,4 @@
 
 ## 1) 연도별 각 기업 주가 및 환율 분석
 ### ① 종가 히스토그램 및 분위수 그림
-![이미지](https://github.com/FELIX-imbetpy-choi/Python-stock-Analysis-Project1/blob/master/project-1.png?raw=true "냐옹이")
+<img src="https://github.com/FELIX-imbetpy-choi/Python-stock-Analysis-Project1/blob/master/project-1.png?raw=true" width="300" height="200"> 
