@@ -52,13 +52,13 @@
 
 ## 3) 삼양 데이터 추론 및 예측
 
-<img src="https://github.com/FELIX-imbetpy-choi/Python-stock-Analysis-Project1/blob/master/project-7.png?raw=true" width="500" height="500"> 
+<img src="https://github.com/FELIX-imbetpy-choi/Python-stock-Analysis-Project1/blob/master/project-7.PNG?raw=true" width="500" height="500"> 
 
 
 <img src="https://github.com/FELIX-imbetpy-choi/Python-stock-Analysis-Project1/blob/master/project-6.png?raw=true" width="500" height="500"> 
 
 
-<img src="https://github.com/FELIX-imbetpy-choi/Python-stock-Analysis-Project1/blob/master/project-8.png?raw=true" width="500" height="500"> 
+<img src="https://github.com/FELIX-imbetpy-choi/Python-stock-Analysis-Project1/blob/master/project-8.PNG?raw=true" width="500" height="500"> 
 
 
 ## 분석 후기 및 한계점
