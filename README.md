@@ -25,7 +25,7 @@
 농심은 종가와 시가총액 모두 감소하는 추세를 보여주는 반면 오뚜기와 삼양은 증가하는 추세
 
 ### ③ 환율과 거래량 추세 비교
-<img src="https://github.com/FELIX-imbetpy-choi/Python-stock-Analysis-Project1/blob/master/project-2.png?raw=true" width="500" height="500"> 
+<img src="https://github.com/FELIX-imbetpy-choi/Python-stock-Analysis-Project1/blob/master/project-3.png?raw=true" width="500" height="500"> 
 
 환율이 증가(원화가치 약세)하게 되면 외국인 투자자들은 대부분 주식을 매도 할 것이다.
 반대로 환율이 감소(원화가치 강세)하게 되면 외국인 투자자들은 주식을 매수 할 것이다.
