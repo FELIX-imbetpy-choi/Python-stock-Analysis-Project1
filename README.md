@@ -10,7 +10,7 @@
 ### ① 종가 히스토그램 및 분위수 그림
 <img src="https://github.com/FELIX-imbetpy-choi/Python-stock-Analysis-Project1/blob/master/project-1.png?raw=true" width="500" height="500"> 
 
-히스토그램으로 확인한 결과 종가 데이터가 정규분포가 아닌 것을 확인  
+> 히스토그램으로 확인한 결과 종가 데이터가 정규분포가 아닌 것을 확인  
 분위수 그림 확인 결과 마찬가지로 정규분포가 아닌 것을 확인  
 
 `※분위수 그림이란?`  
@@ -22,7 +22,7 @@
 
 <img src="https://github.com/FELIX-imbetpy-choi/Python-stock-Analysis-Project1/blob/master/project-2.png?raw=true" width="500" height="500"> 
 
-농심은 종가와 시가총액 모두 감소하는 추세를 보여주는 반면 오뚜기와 삼양은 증가하는 추세
+> 농심은 종가와 시가총액 모두 감소하는 추세를 보여주는 반면 오뚜기와 삼양은 증가하는 추세
 
 ### ③ 환율과 거래량 추세 비교
 <img src="https://github.com/FELIX-imbetpy-choi/Python-stock-Analysis-Project1/blob/master/project-3.png?raw=true" width="500" height="500"> 
@@ -40,3 +40,9 @@
 이러한 소식에 많은 투자자들이 주식을 매수 한 것이다.
 
 ### ④ 각 기업의 주가는 서로에게 영향을 미칠까
+<img src="https://github.com/FELIX-imbetpy-choi/Python-stock-Analysis-Project1/blob/master/project-4.png?raw=true" width="500" height="500"> 
+추세 역시 오뚜기와 농심은 비슷한 형태의 추세를 보여주고 있다.
+<img src="https://github.com/FELIX-imbetpy-choi/Python-stock-Analysis-Project1/blob/master/project-5.png?raw=true" width="500" height="500"> 
+
+....
+
